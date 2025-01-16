@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.parent {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.child {
+    height: 60%;
+    width: 30%;
+    padding: 20px;
+    border: 1px solid #000000;
+    border-radius: 10px
+}
+
+h3 {
+    text-align: center;
+}
+
+.btn {
+    width: 100%
+}
